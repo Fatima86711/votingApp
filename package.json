@@ -2,6 +2,14 @@
   "name": "voting-app",
   "version": "1.0.0",
   "description": "",
+  "homepage": "https://github.com/Fatima86711/votingApp#readme",
+  "bugs": {
+    "url": "https://github.com/Fatima86711/votingApp/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fatima86711/votingApp.git"
+  },
   "license": "ISC",
   "author": "",
   "type": "commonjs",
@@ -16,10 +24,10 @@
     "dotenv": "^17.2.1",
     "express": "^5.1.0",
     "jsonwebtoken": "^9.0.2",
-    "mongoose": "^8.16.4",
+    "mogoose": "^0.0.1-security",
+    "mongoose": "^8.17.0",
     "nodemon": "^3.1.10",
     "passport": "^0.7.0",
     "passport-local": "^1.0.0"
-  },
-  "devDependencies": {}
+  }
 }
